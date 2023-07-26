@@ -1,4 +1,4 @@
-import { db, storage } from '@/config/firebase.ts';
+import { db } from '@/config/firebase.ts';
 import { doc, getDoc } from "firebase/firestore";
 
 export const editMovieLoader = async ({ params }: any) => {
