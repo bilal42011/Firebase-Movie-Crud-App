@@ -2,7 +2,7 @@
 Typescript, React.js, Firebase, Shadcn UI 🔥
 
 Routes:
-/show-movies, 
+/show-movies 
 ,/create-movie
 ,/login
 ,/update-movie?id="id_name"
